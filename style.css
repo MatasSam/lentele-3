@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+table {
+    margin: 50px auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-family: montserrat;
+    width: 80%;
+    font-size: 30px;
+    text-align: left;
+}
+
+td, th {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.color1 {
+    background: orange;
+    color: white;
+}
+
+.color2 {
+    background: blue;
+    color: white;
+}
+
+.color3 {
+    background: green;
+    color: white;
+}
